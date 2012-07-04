@@ -5,6 +5,7 @@
 //  Created by Wang Buping on 11-12-7.
 //  Copyright (c) 2011 Sina. All rights reserved.
 //
+//test
 
 #import "SinaWeiBoSDKDemoViewController.h"
 
