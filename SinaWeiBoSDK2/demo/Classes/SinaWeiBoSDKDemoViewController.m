@@ -6,7 +6,7 @@
 //  Copyright (c) 2011 Sina. All rights reserved.
 //
 
-
+//test Jaunce 5555
 #import "SinaWeiBoSDKDemoViewController.h"
 
 // TODO:
