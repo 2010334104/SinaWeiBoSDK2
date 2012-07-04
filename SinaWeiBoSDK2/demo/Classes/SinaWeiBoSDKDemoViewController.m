@@ -6,6 +6,7 @@
 //  Copyright (c) 2011 Sina. All rights reserved.
 //
 //test
+//test update
 
 #import "SinaWeiBoSDKDemoViewController.h"
 
