@@ -5,7 +5,7 @@
 //  Created by Wang Buping on 11-12-15.
 //  Copyright (c) 2011 Sina. All rights reserved.
 //
-//test from yt
+
 
 #import "WBSDKTimelineViewController.h"
 
